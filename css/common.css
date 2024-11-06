@@ -184,10 +184,8 @@ li {
   min-width: 486px;
   height: 104px;
   background: #f6f6fe;
-  /* position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%); */
+  display: flex;
+  justify-content: center;
 }
 .controls input {
   border: 1px solid #808080;
