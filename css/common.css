@@ -186,7 +186,7 @@ li {
   background: #f6f6fe;
   display: flex;
   justify-content: center;
-  margin-bottom: 16px;
+  margin: 0 auto 16px;
 }
 .controls input {
   border: 1px solid #808080;
