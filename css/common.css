@@ -49,6 +49,8 @@ li {
   margin-bottom: 8px;
 }
 .gallery {
+  width: 1440px;
+  margin: 0 auto;
   padding: 100px 140px;
   display: flex;
   gap: 48px 24px;
